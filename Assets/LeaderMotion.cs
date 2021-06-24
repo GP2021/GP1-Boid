@@ -6,9 +6,7 @@ public class LeaderMotion : MonoBehaviour
 {
     void Start()
     {
-        
     }
-
     void Update()
     {
         Vector3 p = new Vector3();
